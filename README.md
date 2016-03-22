@@ -13,10 +13,10 @@ like Portable Network Graphics to its acronym (PNG).
 Execute the tests with:
 
 ```bash
-$ elixir bob_test.exs
+$ elixir acronym_test.exs
 ```
 
-(Replace `bob_test.exs` with the name of the test file.)
+(Replace `acronym_test.exs` with the name of the test file.)
 
 
 ### Pending tests
@@ -45,6 +45,3 @@ Or, you can enable all the tests by commenting out the
 For more detailed information about the Elixir track, please
 see the [help page](http://exercism.io/languages/elixir).
 
-## Source
-
-Julien Vanier [view source](https://github.com/monkbroc)
